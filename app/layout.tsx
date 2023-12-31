@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Narvbar from "@/components/Narvbar";
+import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "XXX",
@@ -17,7 +18,8 @@ export default function RootLayout({
     <html lang="fr">
       <body>
         <Narvbar />
-        {children}
+        <main className="relative overflow-hidden">{children}</main>
+        <Footer />
       </body>
     </html>
   );
