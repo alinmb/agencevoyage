@@ -4,9 +4,9 @@ import Narvbar from "@/components/Narvbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "XXX",
+  title: "Hilink - Votre partenaire d'aventure.",
   description:
-    "Agence de voyage spécialement dans les campements en montagnes, les randonnées et bien plus encore.",
+    "Agence de voyage spécialisé dans les treks en montagnes, les randonnées et bien plus encore.",
 };
 
 export default function RootLayout({

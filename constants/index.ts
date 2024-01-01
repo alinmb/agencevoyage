@@ -68,7 +68,7 @@ export const FOOTER_CONTACT_INFO = {
   title: "Nous contacter",
   links: [
     { label: "Admin", value: "0689758975" },
-    { label: "Admin email", value: "admin@hilink.com" },
+    { label: "Admin email", value: "alinmb@hilink.com" },
   ],
 };
 
