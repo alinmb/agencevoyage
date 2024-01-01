@@ -67,8 +67,8 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
   title: "Nous contacter",
   links: [
-    { label: "Ali", value: "0689758975" },
-    { label: "Email Ali", value: "admin@hilink.com" },
+    { label: "Admin", value: "0689758975" },
+    { label: "Admin email", value: "admin@hilink.com" },
   ],
 };
 

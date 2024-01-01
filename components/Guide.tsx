@@ -12,7 +12,9 @@ const Guide = () => {
           height={50}
           style={{ width: 50, height: 50 }}
         />
-        <p className="uppercase regular-18 -mt-1 mb-3 text-green-50"></p>
+        <p className="uppercase regular-18 -mt-1 mb-3 text-green-50">
+          Nous sommes là pour vous
+        </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">
             Vers un chemin facile
