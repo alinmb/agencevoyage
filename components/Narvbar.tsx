@@ -47,6 +47,7 @@ const Narvbar = () => {
       <Image
         onClick={togglingMenu}
         src="/menu.svg"
+        // src={toggleMenu ? "/close.svg" : "/menu.svg"}
         alt="menu"
         width={32}
         height={32}
